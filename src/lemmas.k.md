@@ -1,3 +1,3 @@
 ```k
-rule #accountNonexistent(1) => false
+//rule #accountNonexistent(1) => false
 ```
